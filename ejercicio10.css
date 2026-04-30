@@ -1,0 +1,9 @@
+.contenedor{
+    display: flex;
+}
+.caja_1 {
+    order: 2;}
+.caja_2 {
+    order: 1;}
+.caja_3 {
+    order: -1;}

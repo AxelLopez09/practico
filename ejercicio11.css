@@ -1,0 +1,10 @@
+.contenedor{
+    display: flex;
+    height: 200px;
+}
+.caja_arriba {
+    align-self: flex-start;}
+.caja_medio {
+    align-self:  center;}
+    .caja_abajo {
+        align-self:flex-end;}

@@ -1,0 +1,12 @@
+.contenedor { 
+     flex-wrap: wrap;
+    width: 600px;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    background-color: rgb(167, 126, 126);
+  
+}   
+.caja {
+    flex-basis: 150px;
+}

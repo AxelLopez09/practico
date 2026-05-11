@@ -1,0 +1,13 @@
+.formulario{
+    width: 400px;
+}
+.campo{
+    display: flex;
+    margin-bottom: 10px;
+}
+.campo label {
+    flex: 0 0 120px;
+}
+.campo input {
+    flex: 1;
+}

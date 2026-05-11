@@ -1,0 +1,21 @@
+.layout {
+ display: flex;
+height: 500px;
+width: 100%;
+background-color: antiquewhite;
+}
+
+.izquierda{
+    flex: 0 0 200px;
+    background-color: blue;
+}
+
+.centro {
+
+    flex: 1;
+}
+
+.derecha{
+    flex: 0 0 150px;
+    background-color: aqua;
+}

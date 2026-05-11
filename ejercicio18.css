@@ -1,0 +1,15 @@
+.listatarjetas{
+    display: flex;
+    align-items: stretch;
+    gap: 20px
+}
+.tarjeta{
+display: flex;
+flex-direction: column;
+border: 1px;
+padding: 15px;
+flex: 1;
+}
+.tarjeta button {
+    margin-top: auto;   
+}

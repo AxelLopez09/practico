@@ -1,6 +1,7 @@
 .contenedor{
     display: flex;
     height: 200px;
+    background-color: aquamarine;
 }
 .caja_arriba {
     align-self: flex-start;}
